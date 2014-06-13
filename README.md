@@ -1,4 +1,4 @@
-VeganRecipes
+![vegan](http://k40s.net/download/vegan32.png) VeganRecipes
 ============
 
 Eine Sammlng meiner (roh)veganen Rezepte.
