@@ -1,9 +1,11 @@
-Zutaten:
+## Zutaten:
 - 60 g Margarine (Alsan)
 - 400 ml (Soja-/Hafer-/Mandel-)milch
 - 1 Päckchen Vanillezucker
 - 1 TL Natron
 - 200 g Zucker (Kristallzucker)
+
+## Zubereitung:
 
 Alles in einen großen(!) Topf geben, aufkochen lassen und immer wieder umrühren. 
 Unter gelegentlichem Rühren etwa 1 - 1.5 Std. leicht(!) köcheln lassen, bis eine 

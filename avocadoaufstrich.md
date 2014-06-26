@@ -1,10 +1,12 @@
-Zutaten:
+## Zutaten:
 
-1 frische Avocado ("Hass")
-3 - 4 EL Balsamico Essig
-eine Prise Salz
-eine Prise Pfeffer
-1 Knoblauchzehe
+- 1 frische Avocado ("Hass")
+- 3 - 4 EL Balsamico Essig
+- eine Prise Salz
+- eine Prise Pfeffer
+- 1 Knoblauchzehe
+
+## Zubereitung:
 
 Die Avocado auslöffeln und das Fruchtfleisch in eine Schüssel geben. 
 Das Fruchtfleisch mit einer Gabel zerstechen und umrühren, bis es eine 

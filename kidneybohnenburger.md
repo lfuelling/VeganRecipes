@@ -1,6 +1,6 @@
 ## Patty
 
-das patty ungefähr: 
+###Zutaten: 
 
 2 dosen kidneybohnen, 
 10 EL Haferflocken, 
@@ -11,11 +11,3 @@ Chili, Salz, Pfeffer,
 Petersilie und 2 zerriebene Möhren. 
 
 Alles zusammen matschen und braten. 
-
-
-
-## TSATZIKI
-
-2 packungen sojade abtropfen lassen, 
-3-4 knoblauchzehen und 2 zwiebeln reinhauen, 
-bisschen gurke, salz/pfeffer/zitrone

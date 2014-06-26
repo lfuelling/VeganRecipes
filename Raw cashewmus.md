@@ -1,14 +1,16 @@
-Zutaten:
+## Zutaten:
 - 300 g rohe Cashewnüsse
 - 8 Datteln
 - 1/2 TL Vanille
 - Zimt
 - Etwas Wasser
 
+## Zubereitung:
+
 Die Cashews über Nacht einwirken lassen, so dass sie aufgequollen sind. 
 Diese nun pürieren und die übrigen Zutaten hinzugeben. Alles noch einmal 
 pürieren, bis eine cremige Masse entsteht. 
 
 
-TIPP: Nimmt man anstelle der Datteln etwas Agavendicksaft, wird das Mus 
-cremiger und feiner im Geschmack.
+## TIPP: 
+Nimmt man anstelle der Datteln etwas Agavendicksaft, wird das Mus cremiger und feiner im Geschmack.

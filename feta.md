@@ -1,4 +1,4 @@
-Zutaten für ein Glas:
+## Zutaten für ein Glas:
 
 - 200 g Naturtofu 
 - ca. 150 ml Olivenöl
@@ -9,6 +9,8 @@ Zutaten für ein Glas:
 - 1 TL Rosmarin
 - 1 Hand voll frisches Basilikum (gehackt)
 - 2 EL Zitronensaft
+
+## Zubereitung
 
 In einem verschließbaren Glas Vier Esslöffel Olivenöl mit Salz, Thymian, 
 Rosmarin, Oregano und dem Basilikum mischen. Knoblauchzehen schälen, vierteln 

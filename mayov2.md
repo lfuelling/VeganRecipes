@@ -1,10 +1,13 @@
-150ml Sojamilch (ungesüßte)  
-1 TL Gemüsebrühepulver 
-Salz und Pfeffer (nach Geschmack) 
-3 TL Zitronensaft 
-1-2 TL mittelscharfen Senf 
-175-200ml Rapsöl 
+## Zutaten:
 
+- 150ml Sojamilch (ungesüßte)  
+- 1 TL Gemüsebrühepulver 
+- Salz und Pfeffer (nach Geschmack) 
+- 3 TL Zitronensaft 
+- 1-2 TL mittelscharfen Senf 
+- 175-200ml Rapsöl 
+
+## Zubereitung:
 
 Die Sojamilch (Zimmertemperatur) in einen hochen Becher füllen, 
 Brühepulver, Salz und Pfeffer rein, Zitronensaft und den Senf dazu. 

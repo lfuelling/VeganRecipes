@@ -1,8 +1,10 @@
-Zutaten:
+## Zutaten:
 - 200g gemahlene Haselnüsse
 - 1 L Wasser
 - Datteln
 - 1 TL Vanillemark
+
+## Zubereitung:
 
 Die Haselnüsse zuerst in dem Wasser einweichen und alles mehrmals mixen. 
 Danach ein sauberes Küchentuch über eine Schüssel halten und die Mischung 
@@ -10,5 +12,5 @@ aus Wasser und Haselnuss dort hineingeben. Diesen Schritt mehrmals
 wiederholen. Zu der Nussmilch einen Teelöffel Vanillemark und nach Geschmack 
 Datteln hinzugeben. 
 
-TIPP: Aus dem übrigen Haselnussmus lässt sich, mit ein paar Datteln 
-verfeinert, ein super Brotaufstrich machen.
+## TIPP:
+Aus dem übrigen Haselnussmus lässt sich, mit ein paar Datteln verfeinert, ein super Brotaufstrich machen.

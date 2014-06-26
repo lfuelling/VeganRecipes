@@ -1,4 +1,4 @@
-Zutaten:
+## Zutaten:
 - 300 g Weizenmehl
 - 100 g Zucker
 - 10 g Sojamehl
@@ -8,6 +8,8 @@ Zutaten:
 - 1 pck Backpulver
 - Schokoblättchen
 - Kuvertüre oder Zuckerguss
+
+## Zubereitung:
 
 Alle Zutaten bis auf die Kuvertüre/den Zuckerguss und die Schokoblättchen 
 zu einer gleichmässigen Masse rühren. Schokoblättchen nach belieben 
