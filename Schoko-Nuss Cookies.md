@@ -14,9 +14,10 @@
 Weizenmehl mit Erdnussbutter, Margarine, braunem Zucker, einer Prise Salz, Zimt und Vanillemark zu einem Teig kneten. Nachdem alles vermischt ist, Hasel- und Walnüsse einarbeiten.
 Den Teig halbieren, zu einer Rolle formen und 30-40 Minuten im Kühlschrank lagern.
 
-Den Backofen auf 180°C vorheizen. Keine Umluft nutzen, da sonst die Cookeis zu trocken werden.
+Den Backofen auf 180°C vorheizen.
 Zwei Backbleche mit Backpapier auslegen, die Teigrollen aus dem Kühlschrank nehmen und mit einem Messer in Stücke protionieren. 
 Diese mit den Händen einrollen, auf die Bleche legen und flach drücken.
 
-Die Cookies im vorgeheizten Ofen 10-12 Minuten backen. Die Cookies, während sie noch leicht weich sind, aus dem Ofen nehmen und und auf einem Kuchengitter auskühlen lassen.
+Die Cookies im vorgeheizten Ofen 10-12 Minuten backen. Keine Umluft nutzen, da die Cookies sonst zu trocken werden. 
+Die Cookies, während sie noch leicht weich sind, aus dem Ofen nehmen und und auf einem Kuchengitter auskühlen lassen.
 Wenn die Cookies abgekühlt sind, die Zartbitterschokolade grob hacken, schmelzen und auf die Cookies geben.
